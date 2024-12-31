@@ -281,12 +281,15 @@ body {
     height: 293.16px;
 }
 
+
+
+/* -------------------------------------------------------------- */
+/* FOOTER :- DISPLAY NONE  */
 .footer {
     background-color: #FAFBFC;
     height: 3462px;
     padding: 30px 15% 40px 15%;
-
-
+    display: none;
 }
 
 .footer a {
